@@ -1,5 +1,10 @@
 # Hibernate
 
+Hibernate ORM is a stable object-relational mapping framework for Java. It makes better communication possible between the Java programming language and relational database management systems (RDBMS).
+
+When you work with an object-oriented language like Java, you’ll encounter a problem called Object-Relational Impedance Mismatch also called Paradigm Mismatch. This is because OO languages and RDBMSs handle the data differently, which can lead to severe mismatch problems. So, this Hibernate provides you with a framework that overcomes the mismatch problems of Java.
+
+
 ###	Take note of the following steps:
 
 1. Create the java project.</br>
